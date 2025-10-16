@@ -1,4 +1,4 @@
-# Chris Titus Tech's Bypass NRO on STEROIDS!?!?!?
+# Chris Titus Tech's Bypass NRO with blueys xml
 
 From the OOBE Screen press Shift + F10
 
